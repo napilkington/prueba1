@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body{
+	text-align: center;
+	margin-top: 0.7em;
+	background: linear-gradient(to right, rgb(235, 140, 29), rgb(184, 134, 101));
+	/*font-size: 3em;
+	font-family: 'Abril Fatface', cursive;*/
+}
